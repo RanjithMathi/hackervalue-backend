@@ -1,0 +1,45 @@
+{
+  "name": "MEAN",
+  "version": "1.0.0",
+  "description": "A MEAN app that allows users to take the test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisckchang/mean-contactlist.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Express",
+    "Angular"
+  ],
+  "author": "Chris Chang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisckchang/mean-contactlist/issues"
+  },
+  "homepage": "https://github.com/chrisckchang/mean-contactlist",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.16.1",
+    "bower": "^1.8.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.0",
+    "excel-export": "^0.5.1",
+    "express": "~4.14.1",
+    "express-session": "^1.15.2",
+    "jade": "~1.11.0",
+    "json2xls": "^0.1.2",
+    "jsonwebtoken": "^7.3.0",
+    "mongoose": "^4.10.8",
+    "mongoose-random": "^0.1.1",
+    "morgan": "^1.7.0",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.2.1",
+    "save": "^2.3.2",
+    "serve-favicon": "~2.3.2"
+  }
+}
