@@ -25,7 +25,7 @@
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.16.1",
-    "bower": "^1.8.2",
+    "bower": "^1.8.8",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.0",
     "excel-export": "^0.5.1",
